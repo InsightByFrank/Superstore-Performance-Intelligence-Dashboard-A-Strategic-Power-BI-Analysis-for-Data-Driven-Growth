@@ -1,0 +1,2 @@
+# Superstore-Performance-Intelligence-Dashboard-A-Strategic-Power-BI-Analysis-for-Data-Driven-Growth
+Welcome to one of the most comprehensive Power BI projects crafted to showcase end-to-end business intelligence development. This interactive dashboard analyzes sales, customer behavior, regional performance, and product profitability across a fictional retail superstore, revealing rich insights and strategic recommendations.

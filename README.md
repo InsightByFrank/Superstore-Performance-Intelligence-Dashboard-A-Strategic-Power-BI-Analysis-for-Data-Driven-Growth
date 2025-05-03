@@ -18,6 +18,8 @@ Welcome to one of the most comprehensive Power BI projects crafted to showcase e
 
 - [Expected Impact](#expected-impact)
 
+- [Live Preview](#live-preview)
+
 - [Future Improvements](#future-improvements)
 
 - [Contact Me](#contact-me)
@@ -113,8 +115,8 @@ Sales by Segment
 4. Improve inventory, marketing, and customer targeting
    
 
-👀 Live Preview 
-[[🔗 Insert a link to a short Loom or YouTube walkthrough if available]](https://app.powerbi.com/groups/me/reports/0b2a22e4-98e4-4ad4-b2b5-e7de7c665d3a/0e166b089c2aaa4cc3a1?experience=power-bi)
+### Live Preview 
+[[🔗 Click Here for a walkthrough on my project]](https://app.powerbi.com/groups/me/reports/0b2a22e4-98e4-4ad4-b2b5-e7de7c665d3a/0e166b089c2aaa4cc3a1?experience=power-bi)
 
 ### Future Improvements
 - Integrate real-time sales data with APIs
@@ -126,6 +128,6 @@ Sales by Segment
 Want to collaborate, hire, or just chat?
 
 📧 Email: Frankgodwin796@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/frank-agba
+🔗 LinkedIn: [Frank Agba](https://www.linkedin.com/in/frank-agba) 
 💼 Whatsapp: +2349168566449
 
